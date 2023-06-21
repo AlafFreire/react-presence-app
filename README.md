@@ -1,3 +1,3 @@
-##App Lista de Presença
+## App Lista de Presença
 
 - Permite ao professor fazer a chamada dos alunos
